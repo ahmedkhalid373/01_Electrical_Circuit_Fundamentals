@@ -28,7 +28,7 @@ $$
 R = \frac{V}{I}
 $$
 
-![Ohm's Law](figures/4.Ohm's_Law.png)
+![Ohm's Law](Figures/04_Ohm's_Law.png)
 
 ---
 

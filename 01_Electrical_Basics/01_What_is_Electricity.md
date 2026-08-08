@@ -75,7 +75,7 @@ In metallic conductors:
 The diagram below illustrates the difference between actual electron
 movement and the assumed direction of conventional current.
 
-![Electron flow and conventional current](figures/1.Electric_Charge_and_Current_Flow.png)
+![Electron flow and conventional current](Figures/01_Electric_Charge_and_Current_Flow.png)
 
 As shown:
 

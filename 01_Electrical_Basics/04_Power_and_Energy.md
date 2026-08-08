@@ -30,7 +30,7 @@ $$
 1W = 1V \cdot 1A
 $$
 
-![Power and Energy](figures/5.Power_and_Energy.png)
+![Power and Energy](Figures/05_Power_and_Energy.png)
 
 ---
 

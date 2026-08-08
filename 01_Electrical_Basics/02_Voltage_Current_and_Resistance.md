@@ -46,7 +46,7 @@ $$
 V_{AB} = V_A - V_B
 $$
 
-![Voltage and potential difference](figures/2.Voltage_Potential_Difference.png)
+![Voltage and potential difference](Figures/02_Voltage_Potential_Difference.png)
 
 In the example above, $V_{AB}$ represents the potential at point $A$
 relative to point $B$.
@@ -155,7 +155,7 @@ The following diagram summarizes the relationship between voltage,
 current and resistance, including the effect of changing voltage or
 resistance on current.
 
-![Voltage, current and resistance relationship](figures/3.Voltage_Current_Resistnce_Relationship.png)
+![Voltage, current and resistance relationship](Figures/03_Voltage_Current_Resistnce_Relationship.png)
 
 The relationship can also be rearranged as:
 
