@@ -267,9 +267,9 @@ $$
 \eta=\frac{270}{300}\times100\%
 $$
 
-```math
+$$
 \boxed{\eta=90\%}
-```
+$$
 
 The 30 W difference represents power that is not delivered to the
 output and is associated with losses in the converter.
