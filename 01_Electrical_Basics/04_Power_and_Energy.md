@@ -9,26 +9,28 @@ and power-electronic systems.
 
 ## 1. Electrical Power
 
-Electrical power represents the **rate at which electrical energy is**
-**transferred**.
+Electrical power represents the **rate at which electrical energy is
+transferred**.
 
-```math
+$$
 \boxed{P = VI}
-```
+$$
 
 Where:
 
 | Symbol | Meaning | Unit |
-| ------ | ------- | ---- |
-| $P$    | Power   | W    |
-| $V$    | Voltage | V    |
-| $I$    | Current | A    |
+|---|---|---|
+| $P$ | Power | W |
+| $V$ | Voltage | V |
+| $I$ | Current | A |
 
 Therefore:
 
-```math
+$$
 1W = 1V \cdot 1A
-```
+$$
+
+![Power and Energy](Figures/05_Power_and_Energy.png)
 
 ---
 
@@ -36,49 +38,49 @@ Therefore:
 
 Starting from:
 
-```math
+$$
 P = VI
-```
+$$
 
 Using Ohm's Law:
 
-```math
+$$
 V = IR
-```
+$$
 
 we obtain:
 
-```math
+$$
 P = I^2R
-```
+$$
 
 Alternatively:
 
-```math
+$$
 I = \frac{V}{R}
-```
+$$
 
 Therefore:
 
-```math
+$$
 P = \frac{V^2}{R}
-```
+$$
 
 The three equivalent forms are:
 
-```math
+$$
 \boxed{P = VI = I^2R = \frac{V^2}{R}}
-```
+$$
 
 ---
 
 ## 3. Choosing the Correct Formula
 
 | Known quantities | Formula |
-| ---------------- | ------- |
-| $V$, $I$         | $P = VI$ |
-| $I$, $R$         | $P = I^2R$ |
-| $V$, $R$         | $P = \frac{V^2}{R}$ |
+|---|---|
+| $V$, $I$ | $P = VI$ |
+| $I$, $R$ | $P = I^2R$ |
+| $V$, $R$ | $P = \frac{V^2}{R}$ |
 
 Choose the formula based on the quantities that are already known.
 
@@ -90,27 +92,27 @@ A $10\Omega$ resistor is connected to a $20V$ source.
 
 ### Step 1 — Calculate current
 
-```math
+$$
 I = \frac{V}{R}
-```
+$$
 
-```math
+$$
 I = \frac{20}{10} = 2A
-```
+$$
 
 ### Step 2 — Calculate power
 
-```math
+$$
 P = VI
-```
+$$
 
-```math
+$$
 P = 20 \times 2
-```
+$$
 
-```math
+$$
 \boxed{P = 40W}
-```
+$$
 
 The resistor dissipates **40 W** of electrical power.
 
@@ -122,35 +124,35 @@ Electrical energy represents the **total amount of energy transferred**.
 
 For constant power:
 
-```math
+$$
 \boxed{E = Pt}
-```
+$$
 
 Since:
 
-```math
+$$
 P = VI
-```
+$$
 
 we can also write:
 
-```math
+$$
 \boxed{E = VIt}
-```
+$$
 
 Where:
 
 | Symbol | Meaning | Unit |
-| ------ | ------- | ---- |
-| $E$    | Energy  | J    |
-| $P$    | Power   | W    |
-| $t$    | Time    | s    |
+|---|---|---|
+| $E$ | Energy | J |
+| $P$ | Power | W |
+| $t$ | Time | s |
 
 Because:
 
-```math
+$$
 1J = 1W \cdot s
-```
+$$
 
 ---
 
@@ -158,17 +160,17 @@ Because:
 
 A 100 W device operates for 10 seconds.
 
-```math
+$$
 E = Pt
-```
+$$
 
-```math
+$$
 E = 100 \times 10
-```
+$$
 
-```math
+$$
 \boxed{E = 1000J}
-```
+$$
 
 The device transfers **1000 J** of energy during the 10-second
 interval.
@@ -181,9 +183,9 @@ interval.
 
 Power describes **how quickly energy is transferred**:
 
-```math
+$$
 P = VI
-```
+$$
 
 Unit: **Watt (W)**
 
@@ -191,9 +193,9 @@ Unit: **Watt (W)**
 
 Energy describes the **total amount of energy transferred**:
 
-```math
+$$
 E = Pt
-```
+$$
 
 Unit: **Joule (J)**
 
@@ -207,67 +209,67 @@ Unit: **Joule (J)**
 
 Consider a buck converter with:
 
-```math
-V_{in} = 60V
-```
+$$
+V_{in}=60V
+$$
 
-```math
-I_{in} = 5A
-```
+$$
+I_{in}=5A
+$$
 
 The input power is:
 
-```math
-P_{in} = V_{in} I_{in}
-```
+$$
+P_{in}=V_{in}I_{in}
+$$
 
-```math
-P_{in} = 60 \times 5 = 300W
-```
+$$
+P_{in}=60\times5=300W
+$$
 
 Suppose the converter produces:
 
-```math
-V_{out} = 24V
-```
+$$
+V_{out}=24V
+$$
 
-```math
-I_{out} = 11.25A
-```
+$$
+I_{out}=11.25A
+$$
 
 The output power is:
 
-```math
-P_{out} = V_{out} I_{out}
-```
+$$
+P_{out}=V_{out}I_{out}
+$$
 
-```math
-P_{out} = 24 \times 11.25 = 270W
-```
+$$
+P_{out}=24\times11.25=270W
+$$
 
 ### Power Loss
 
-```math
-P_{loss} = P_{in} - P_{out}
-```
+$$
+P_{loss}=P_{in}-P_{out}
+$$
 
-```math
-P_{loss} = 300 - 270 = 30W
-```
+$$
+P_{loss}=300-270=30W
+$$
 
 ### Efficiency
 
-```math
-\eta = \frac{P_{out}}{P_{in}} \times 100\%
-```
+$$
+\eta=\frac{P_{out}}{P_{in}}\times100\%
+$$
 
-```math
-\eta = \frac{270}{300} \times 100\%
-```
+$$
+\eta=\frac{270}{300}\times100\%
+$$
 
-```math
-\boxed{\eta = 90\%}
-```
+$$
+\boxed{\eta=90\%}
+$$
 
 The 30 W difference represents power that is not delivered to the
 output and is associated with losses in the converter.
@@ -289,15 +291,15 @@ Power and energy are fundamental to understanding:
 
 A key relationship used later in power electronics is:
 
-```math
-P_{loss} = P_{in} - P_{out}
-```
+$$
+P_{loss}=P_{in}-P_{out}
+$$
 
 and:
 
-```math
-\eta = \frac{P_{out}}{P_{in}} \times 100\%
-```
+$$
+\eta=\frac{P_{out}}{P_{in}}\times100\%
+$$
 
 These quantities will become especially important when analyzing
 real buck and boost converters.
@@ -308,30 +310,30 @@ real buck and boost converters.
 
 ### Electrical Power
 
-```math
-\boxed{P = VI}
-```
+$$
+\boxed{P=VI}
+$$
 
 ### Resistor Power
 
-```math
-\boxed{P = I^2R}
-```
+$$
+\boxed{P=I^2R}
+$$
 
-```math
-\boxed{P = \frac{V^2}{R}}
-```
+$$
+\boxed{P=\frac{V^2}{R}}
+$$
 
 ### Electrical Energy
 
-```math
-\boxed{E = Pt}
-```
+$$
+\boxed{E=Pt}
+$$
 
 ### Converter Efficiency
 
 ```math
-\boxed{\eta = \frac{P_{out}}{P_{in}} \times 100\%}
+\boxed{\eta=\frac{P_{out}}{P_{in}}\times100\%}
 ```
 
 ---
@@ -344,9 +346,9 @@ real buck and boost converters.
 - Energy is measured in joules.
 - For a resistive load:
 
-```math
-P = VI = I^2R = \frac{V^2}{R}
-```
+$$
+P=VI=I^2R=\frac{V^2}{R}
+$$
 
 - Converter efficiency compares useful output power with input power.
 - Power and energy are fundamental concepts in power electronics.
