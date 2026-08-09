@@ -778,9 +778,9 @@ $$
 \eta=\frac{270}{300}\times100\%
 $$
 
-$$
+``` math
 \boxed{\eta=90\%}
-$$
+```
 
 The 30 W difference represents power that is not delivered to the
 output and is associated with losses in the converter.
@@ -814,44 +814,6 @@ $$
 
 These quantities will become especially important when analyzing
 real buck and boost converters.
-
----
-
-# Key Equations
-
-## Electrical Power
-
-$$
-\boxed{P=VI}
-$$
-
-## Resistor Power
-
-$$
-\boxed{P=I^2R}
-$$
-
-$$
-\boxed{P=\frac{V^2}{R}}
-$$
-
-## Electrical Energy
-
-$$
-\boxed{E=Pt}
-$$
-
-## Ohm's Law
-
-$$
-\boxed{V=IR}
-$$
-
-## Converter Efficiency
-
-$$
-\boxed{\eta=\frac{P_{out}}{P_{in}}\times100\%}
-$$
 
 ---
 
