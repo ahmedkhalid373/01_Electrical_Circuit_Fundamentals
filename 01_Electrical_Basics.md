@@ -81,7 +81,7 @@ The diagram below illustrates the difference between actual electron
 movement and the assumed direction of conventional current.
 
 <p align="center">
-  <img src="Figures/01_Electric_Charge_and_Current_Flow.png"
+  <img src="Figures/ECF01_01_Electric_Charge_and_Current_Flow.png"
        alt="Electron flow and conventional current"
        width="700">
 </p>
@@ -159,7 +159,7 @@ V_{AB} = V_A - V_B
 $$
 
 <p align="center">
-  <img src="Figures/02_Voltage_Potential_Difference.png"
+  <img src="Figures/ECF01_02_Voltage_Potential_Difference.png"
        alt="Voltage and potential difference"
        width="700">
 </p>
@@ -272,7 +272,7 @@ current and resistance, including the effect of changing voltage or
 resistance on current.
 
 <p align="center">
-  <img src="Figures/03_Voltage_Current_Resistnce_Relationship.png"
+  <img src="Figures/ECF01_03_Voltage_Current_Resistnce_Relationship.png"
        alt="Voltage, current and resistance relationship"
        width="700">
 </p>
@@ -332,7 +332,7 @@ R = \frac{V}{I}
 $$
 
 <p align="center">
-  <img src="Figures/04_Ohm's_Law.png"
+  <img src="Figures/ECF01_04_Ohm's_Law.png"
        alt="Ohm's Law"
        width="700">
 </p>
@@ -538,7 +538,7 @@ $$
 $$
 
 <p align="center">
-  <img src="Figures/05_Power_and_Energy.png"
+  <img src="Figures/ECF01_05_Power_and_Energy.png"
        alt="Power and Energy"
        width="700">
 </p>
