@@ -79,7 +79,7 @@ For a pure sinusoidal AC signal centered around zero, the average value
 over one complete cycle is zero.
 
 <p align="center">
-  <img src="figures/06_DC_vs_AC.png" alt="DC vs AC waveform" width="700">
+  <img src="Figures/06_DC_vs_AC.png" alt="DC vs AC waveform" width="700">
 </p>
 
 ---
@@ -138,7 +138,7 @@ These parameters allow us to describe and interpret electrical
 waveforms measured using an oscilloscope.
 
 <p align="center">
-  <img src="figures/07_Waveform_Parameters_Overview.png" alt="Waveform parameters overview" width="700">
+  <img src="Figures/07_Waveform_Parameters_Overview.png" alt="Waveform parameters overview" width="700">
 </p>
 
 ---
@@ -183,7 +183,7 @@ For example:
 - Equivalent zero crossings
 
 <p align="center">
-  <img src="figures/08_Period.png" alt="Period of a waveform" width="700">
+  <img src="Figures/08_Period.png" alt="Period of a waveform" width="700">
 </p>
 
 ---
@@ -259,7 +259,7 @@ $$
 $$
 
 <p align="center">
-  <img src="figures/09_Frequency_vs_Period.png" alt="Frequency versus period" width="700">
+  <img src="Figures/09_Frequency_vs_Period.png" alt="Frequency versus period" width="700">
 </p>
 
 ---
@@ -351,7 +351,7 @@ $$
 $$
 
 <p align="center">
-  <img src="figures/10_Amplitude_and_Vpp.png" alt="Amplitude and peak-to-peak voltage" width="700">
+  <img src="Figures/10_Amplitude_and_Vpp.png" alt="Amplitude and peak-to-peak voltage" width="700">
 </p>
 
 ---
@@ -406,7 +406,7 @@ $$
 The waveform oscillates around 5 V rather than 0 V.
 
 <p align="center">
-  <img src="figures/11_DC_Offset.png" alt="AC waveform with DC offset" width="700">
+  <img src="Figures/11_DC_Offset.png" alt="AC waveform with DC offset" width="700">
 </p>
 
 ---
@@ -592,7 +592,7 @@ $$
 $$
 
 <p align="center">
-  <img src="figures/12_Peak_and_RMS.png" alt="Peak and RMS comparison" width="700">
+  <img src="Figures/12_Peak_and_RMS.png" alt="Peak and RMS comparison" width="700">
 </p>
 
 ---
@@ -662,7 +662,7 @@ f=\frac{1}{T}
 $$
 
 <p align="center">
-  <img src="figures/13_Annotated_Sinusoidal_Waveform.png" alt="Complete annotated sinusoidal waveform" width="700">
+  <img src="Figures/13_Annotated_Sinusoidal_Waveform.png" alt="Complete annotated sinusoidal waveform" width="700">
 </p>
 
 ---
@@ -761,7 +761,7 @@ T_{ON}=5\mu s
 $$
 
 <p align="center">
-  <img src="figures/14_PWM_Waveform.png" alt="PWM waveform" width="700">
+  <img src="Figures/14_PWM_Waveform.png" alt="PWM waveform" width="700">
 </p>
 
 ---
